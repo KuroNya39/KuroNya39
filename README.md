@@ -1,15 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:39c5bb,100:1f8f88&height=150&section=header&text=%E9%BB%92&fontSize=46&fontColor=ffffff&desc=KuroNya39&descAlignY=80&descSize=16)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=39C5BB&center=true&vCenter=true&width=640&lines=Electron+%2B+Node.js;Small+tools%2C+less+repetitive+work;Shenzhen%2C+China)](https://github.com/KuroNya39)
+# 黒
 
 写点小工具，把人从重复劳动里捞出来。
-
-[![技术栈](https://skillicons.dev/icons?i=js,nodejs,electron,html,css,git,github,vscode)](https://skillicons.dev)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuroNya39&show_icons=true&locale=zh-CN&theme=tokyonight&title_color=39c5bb&icon_color=39c5bb&hide_rank=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=KuroNya39&theme=tokyonight&ring=39C5BB&fire=39C5BB&currStreakLabel=39C5BB" height="165" />
-</p>
 
 ## 项目
 
@@ -18,6 +9,10 @@
 - **[readme-writing](https://github.com/KuroNya39/readme-writing)** — 为软件项目撰写 / 重写 / 同步 README 与用户指南的 Skill
 - **[design-system-writing](https://github.com/KuroNya39/design-system-writing)** — 半自动建立 / 维护设计系统的 Skill
 - **[ian-xiaohei-illustrations](https://github.com/KuroNya39/ian-xiaohei-illustrations)** — 中文正文配图的插画生成 Skill
+
+## 提交活跃曲线
+
+![提交活跃曲线](https://github-readme-activity-graph.vercel.app/graph?username=KuroNya39&theme=tokyo-night&hide_border=true&line=39c5bb&point=39c5bb&area=true)
 
 ## 贡献图
 
