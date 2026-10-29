@@ -1,5 +1,3 @@
-# 黒
-
 ## 项目
 
 - **[BOSS直聘候选人AI评分助手](https://github.com/KuroNya39/boss-candidate-tool)** — Windows 桌面小工具：从 BOSS直聘 提取候选人简历、AI 匹配评分、自动打招呼，结果导出 Excel [![stars](https://img.shields.io/github/stars/KuroNya39/boss-candidate-tool?color=39c5bb&label=)](https://github.com/KuroNya39/boss-candidate-tool/stargazers)
