@@ -1,6 +1,6 @@
 ## 项目
 
-- **[BOSS直聘候选人AI评分助手](https://github.com/KuroNya39/boss-candidate-tool)** — Windows 桌面小工具：从 BOSS直聘 提取候选人简历、AI 匹配评分、自动打招呼，结果导出 Excel [![stars](https://img.shields.io/github/stars/KuroNya39/boss-candidate-tool?color=39c5bb&label=)](https://github.com/KuroNya39/boss-candidate-tool/stargazers)
+- **[boss-candidate-tool](https://github.com/KuroNya39/boss-candidate-tool)** — BOSS直聘候选人AI评分助手 [![stars](https://img.shields.io/github/stars/KuroNya39/boss-candidate-tool?color=39c5bb&label=)](https://github.com/KuroNya39/boss-candidate-tool/stargazers)
 - **[kuro-no-nekohouse](https://github.com/KuroNya39/kuro-no-nekohouse)** — 个人网站「黒の猫窝」 [在线访问](https://kuronya39.github.io/kuro-no-nekohouse/)
 - **[readme-writing](https://github.com/KuroNya39/readme-writing)** — 为软件项目撰写 / 重写 / 同步 README 与用户指南的 Skill
 - **[design-system-writing](https://github.com/KuroNya39/design-system-writing)** — 半自动建立 / 维护设计系统的 Skill
