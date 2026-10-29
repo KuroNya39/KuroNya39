@@ -6,6 +6,15 @@
 - **[readme-writing](https://github.com/KuroNya39/readme-writing)** — 为软件项目撰写 / 重写 / 同步 README 与用户指南的 Skill
 - **[design-system-writing](https://github.com/KuroNya39/design-system-writing)** — 半自动建立 / 维护设计系统的 Skill
 
+## 贡献图
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuroNya39/KuroNya39/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/KuroNya39/KuroNya39/output/github-snake.svg" alt="贡献图贪吃蛇" />
+  </picture>
+</p>
+
 ## Star 变化
 
 [![Star History Chart](https://api.star-history.com/chart?repos=KuroNya39/boss-candidate-tool&type=date&legend=top-left)](https://www.star-history.com/#KuroNya39/boss-candidate-tool&type=date&legend=top-left)
