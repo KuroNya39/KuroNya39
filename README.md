@@ -3,8 +3,8 @@
 - **[boss-candidate-tool](https://github.com/KuroNya39/boss-candidate-tool)** — BOSS直聘候选人AI评分助手 [![stars](https://img.shields.io/github/stars/KuroNya39/boss-candidate-tool?color=39c5bb&label=)](https://github.com/KuroNya39/boss-candidate-tool/stargazers)
 - **[hr-data-dashboard](https://github.com/KuroNya39/hr-data-dashboard)** — HTML HR 数据看板
 - **[kuro-no-nekohouse](https://github.com/KuroNya39/kuro-no-nekohouse)** — 个人网站「黒の猫窝」 [在线访问](https://kuronya39.github.io/kuro-no-nekohouse/)
-- **[readme-writing](https://github.com/KuroNya39/readme-writing)** — 为软件项目撰写 README 与用户指南的 Skill
 - **[design-system-writing](https://github.com/KuroNya39/design-system-writing)** — 半自动建立 / 维护设计系统的 Skill
+- **[readme-writing](https://github.com/KuroNya39/readme-writing)** — 为软件项目撰写 README 与用户指南的 Skill
 
 ## 贡献图
 
